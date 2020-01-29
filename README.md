@@ -1,4 +1,20 @@
-## Desafio 1 com TypeScript e MongoDB
+<html>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github.com/flaviohugo14/desafio1-typescript/blob/master/.github/ts.png?raw=true" width="150" height=150>
+      </td>
+      <td>
+    <img src="https://github.com/flaviohugo14/desafio1-typescript/blob/master/.github/node.png?raw=true" width="250" height=150>
+      </td>
+      <td>
+    <img src="https://github.com/flaviohugo14/desafio1-typescript/blob/master/.github/eslint.png?raw=true" width="180" height=150>
+      </td>
+    <tr>
+    </table>
+</html>
+                                                                                                              
+# Desafio 1 com TypeScript e MongoDB
 ---
 ### Tecnologias utilizadas para desenvolvimento
 - [Node.js](https://github.com/nodejs)
